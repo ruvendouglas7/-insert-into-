@@ -1,7 +1,7 @@
 insert into pessoas
 (nome, nascimento, sexo, peso, altura, nacionalidade)
 values
-('maria', '1999-12-30', 'F', '55.2', '1.65', 'Portugal');
+(DEFAULT,'Creuza', '1920-12-30', 'F', '50.2', '1.65', '');
 select * from pessoas;
 
 
